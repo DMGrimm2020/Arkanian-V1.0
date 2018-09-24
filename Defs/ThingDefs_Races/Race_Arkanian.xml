@@ -295,6 +295,10 @@
             </graphicPaths>
             <hairSettings>
                 <hasHair>true</hasHair>
+                <getsGreyAt>85</getsGreyAt>
+                <hairTags>
+		            <li>Rural</li>
+                </hairTags>
             </hairSettings>     
 	        <thoughtSettings>
                 <cannotReceiveThoughts>
