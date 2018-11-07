@@ -62,11 +62,6 @@
           <thingDef>ComponentIndustrial</thingDef>
           <count>30</count>
         </li>
-				<li Class="ScenPart_StartingThing_Defined">
-          <def>StartingThing_Defined</def>
-          <thingDef>WakeUp</thingDef>
-          <count>10</count>
-        </li>
         <li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
           <thingDef>Gun_BoltActionRifle</thingDef>
@@ -77,21 +72,15 @@
         </li>
         <li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
-          <thingDef>MeleeWeapon_Knife</thingDef>
-          <stuff>Plasteel</stuff>
+          <thingDef>TGRightVibroknuckler</thingDef>
         </li>
 				<li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
-          <thingDef>Apparel_FlakPants</thingDef>
+          <thingDef>Apparel_ChestTier1Armor</thingDef>
         </li>
 				<li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
-          <thingDef>Apparel_FlakVest</thingDef>
-        </li>
-				<li Class="ScenPart_StartingThing_Defined">
-          <def>StartingThing_Defined</def>
-          <thingDef>Apparel_AdvancedHelmet</thingDef>
-					<stuff>Plasteel</stuff>
+          <thingDef>Apparel_LightHelmet1Tier</thingDef>
         </li>
         <li Class="ScenPart_StartingAnimal">
           <def>StartingAnimal</def>
@@ -134,7 +123,6 @@
           <textKey>GameStartDialog</textKey>
           <closeSound>GameStartSting</closeSound>
         </li>
-        
       </parts>
     </scenario>
   </ScenarioDef>
